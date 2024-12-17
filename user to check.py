@@ -1,5 +1,6 @@
 import requests
 from requests.auth import HTTPBasicAuth
+
 USERNAME = 'admin'
 PASSWORD = 'password'
 BASE_URL = 'http://127.0.0.1:5000/items'
